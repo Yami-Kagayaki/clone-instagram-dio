@@ -1,6 +1,6 @@
 # Clone da Tela de Login do Instagram
 
-Projeto desenvolvido na DIO durante o <h2>BOOTCAMP HTML DEVELOPER</h2>.
+Projeto desenvolvido na DIO durante o BOOTCAMP HTML DEVELOPER.
 
 ## 🚀 Objetivo
 
